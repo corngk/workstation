@@ -23,3 +23,6 @@ I use Ubuntu 20.04 with the following software and tools setup:
 
 ## Big Data
 See [Big Data]()
+
+## Music
+Spotify
